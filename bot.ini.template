@@ -1,0 +1,13 @@
+[General]
+token=
+su-id=
+in-memory-objects-limit=
+
+[Directories]
+config=
+storage=
+log=
+
+[Raid-Helper]
+endpoint=
+token=

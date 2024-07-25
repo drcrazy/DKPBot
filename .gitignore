@@ -139,3 +139,5 @@ scriptconfig.py
 *.cprofile
 test.py
 signups.json
+/.idea/
+*.iml
